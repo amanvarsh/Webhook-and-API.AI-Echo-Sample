@@ -1,6 +1,6 @@
 {
   "name": "Webhook-echo-sample",
   "description": "Webhook echo sample",
-  "repository": "https://git.heroku.com/avarshye/myfirst-echo-service.git",
+  "repository": "https://git.heroku.com/myfirst-echo-service.git",
   "keywords": ["api.ai", "dialogflow", "natural language"]
 }
